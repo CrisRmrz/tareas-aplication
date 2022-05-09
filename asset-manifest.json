@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tareas-aplication/static/css/main.db1d58a7.css",
-    "main.js": "/tareas-aplication/static/js/main.a4c0b3ed.js",
+    "main.js": "/tareas-aplication/static/js/main.c8628117.js",
     "static/media/MiLogo.PNG": "/tareas-aplication/static/media/MiLogo.dfaec67025409976ddda.PNG",
     "index.html": "/tareas-aplication/index.html",
     "main.db1d58a7.css.map": "/tareas-aplication/static/css/main.db1d58a7.css.map",
-    "main.a4c0b3ed.js.map": "/tareas-aplication/static/js/main.a4c0b3ed.js.map"
+    "main.c8628117.js.map": "/tareas-aplication/static/js/main.c8628117.js.map"
   },
   "entrypoints": [
     "static/css/main.db1d58a7.css",
-    "static/js/main.a4c0b3ed.js"
+    "static/js/main.c8628117.js"
   ]
 }
